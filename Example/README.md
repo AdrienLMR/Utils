@@ -1,1 +1,1 @@
-Examples of all projects.
+These are examples of all projects.
