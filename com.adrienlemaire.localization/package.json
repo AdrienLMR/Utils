@@ -1,0 +1,21 @@
+{
+  "name": "com.adrienlemaire.localization",
+  "version": "1.0.0",
+  "displayName": "Localization",
+  "description": "Localization",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "library",
+    "utility",
+    "localization"
+  ],
+  "author": {
+    "name": "AdrienLemaire",
+    "email": "adrienlemaire.pro32@gmail.com"
+  },
+  "type": "tool"
+}

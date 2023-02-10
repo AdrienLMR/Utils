@@ -1,0 +1,19 @@
+{
+    "name": "Com.AdrienLemaire.Localization.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d9708b88d901ea246ba4d3e97294828a",
+        "GUID:d4556e099aa48c04cab747518c1cf3a2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
