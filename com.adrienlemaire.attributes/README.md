@@ -26,3 +26,14 @@ In this example, there are :
 ##### References
     URocks!
     https://www.youtube.com/watch?v=ThcSHbVh7xc
+
+### ReadOnly
+##### What for
+Prohibit user to change a field in the editor. They will only be able to read it.
+
+##### How to use it
+Just put ```[ReadOnly]``` before your field
+
+##### References
+    Comp-3 Interactive
+    https://www.youtube.com/watch?v=r3nwTGLHygI
