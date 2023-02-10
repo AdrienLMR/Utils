@@ -8,4 +8,8 @@ public class Test : MonoBehaviour
 
     [ListToPopup(typeof(Test), "myList")]
     public string myString = "example";
+
+    [Space(10)]
+    [ReadOnly]
+    public string readOnlyString = "example";
 }
