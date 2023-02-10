@@ -1,0 +1,22 @@
+{
+  "name": "com.adrienlemaire.attributes",
+  "version": "1.0.0",
+  "displayName": "Attributes",
+  "description": "",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "library",
+    "utility",
+    "attributes"
+  ],
+  "author": {
+    "name": "AdrienLemaire",
+    "email": "adrienlemaire.pro32@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
