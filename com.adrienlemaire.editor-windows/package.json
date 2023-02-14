@@ -1,0 +1,21 @@
+{
+  "name": "com.adrienlemaire.editor-windows",
+  "version": "1.0.0",
+  "displayName": "EditorWindows",
+  "description": "",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "library",
+    "utility",
+    "window"
+  ],
+  "author": {
+    "name": "AdrienLemaire",
+    "email": "adrienlemaire.pro32@gmail.com"
+  },
+  "type": "tool"
+}
