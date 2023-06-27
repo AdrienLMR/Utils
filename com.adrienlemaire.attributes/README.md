@@ -48,7 +48,7 @@ Example :
     public bool showValues = false;
 
     [ShowIf("showValues", false)]
-    public object value1 = default;
+    public string value1 = string.Empty;
 
 In this example, "value1" will only be shown if "showValues" is equal to false.
 
