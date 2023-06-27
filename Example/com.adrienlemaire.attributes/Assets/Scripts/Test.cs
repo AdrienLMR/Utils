@@ -12,4 +12,10 @@ public class Test : MonoBehaviour
     [Space(10)]
     [ReadOnly]
     public string readOnlyString = "example";
+
+    [Space(10)]
+    public bool showValues = false;
+
+    [ShowIf("showValues", false)]
+    public string value1 = string.Empty;
 }
