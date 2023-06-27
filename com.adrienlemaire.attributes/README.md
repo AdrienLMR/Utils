@@ -37,3 +37,24 @@ Just put ```[ReadOnly]``` before your field
 ##### References
     Comp-3 Interactive
     https://www.youtube.com/watch?v=r3nwTGLHygI
+
+### ShowIf
+##### What for
+As in the name, show a property if another property has a particular value
+
+##### How to use it
+Example :
+
+    public bool showValues = false;
+
+    [ShowIf("showValues", false)]
+    public object value1 = default;
+
+In this example, "value1" will only be shown if "showValues" is equal to false.
+
+Moreover :
+    [ShowIf("showValues", true)]
+Can be replaced by this if showValues is a boolean :
+    [ShowIf("showValues")]
+
+Lastly, the system works for booleans, strings, and ints. "value1" can be of any type.
